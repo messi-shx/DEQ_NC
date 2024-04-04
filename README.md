@@ -22,10 +22,10 @@ We found that the clusters formed by ResNet are elongated, while those formed by
 Specifically, in the case of $R=100$, it fails to distinguish the boundaries between minority classes. All three minority classes are merged with the majority class, which further validates our proposition 4.2.
 
 * Gram matrix $W^TW$
-![alt text](gram_W.png)
+![alt text](gram_W.PNG)
 Similarly, in imbalanced scenarios, DEQ extracts minority class features relatively better compared to explicit NN. We believe this is mainly because, under fixed-point iteration, it allows the samples to undergo multiple learning iterations.
 
 * Gram matrix $H^TH$
-![alt text](gram_H.png) 
+![alt text](gram_H.PNG) 
 
 In balanced scenarios, there is not much difference between the results of DEQ and ResNet; therefore, we did not present them here.
