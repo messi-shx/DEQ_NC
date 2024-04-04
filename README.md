@@ -1,5 +1,6 @@
 ### 1. log plots
 We have updated the y-axis of $\mathcal{NC}$ to be logarithmic, and the plot is shown below:
+
 $k_A=3$ and $R=100$:
 ![3_100](imbalance3_100.png) 
 
